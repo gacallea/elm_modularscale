@@ -14,6 +14,7 @@ import Html exposing (Html)
 -- CONSTANTS
 
 
+color : { darkBlue : Color, darkGreen : Color, amaranto : Color, darkCharcoal : Color, beige : Color, lightBeige : Color, white : Color }
 color =
     { darkBlue = rgb255 96 120 143
     , darkGreen = rgb255 87 129 130
